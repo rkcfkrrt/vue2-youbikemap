@@ -440,7 +440,7 @@ export default {
             this.stationList = res.data;
             if (this.stationList.length === 0) {
               this.$message({
-                message: "目前位置無相關站點，請移動或地圖以更新資料。",
+                message: "目前位置無相關站點，請移動或縮放地圖以更新資料。",
                 type: "warning",
                 duration: 2000,
                 customClass: "mes",
