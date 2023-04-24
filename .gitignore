@@ -2,3 +2,5 @@ node_modules
 tdx.js
 axios.js
 dist
+deploy.sh
+vue.config.js

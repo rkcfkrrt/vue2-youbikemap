@@ -30,7 +30,7 @@ export default {
   name: "Home",
   methods: {
     handleRouteLinkClick(newRoute) {
-      console.log("click", newRoute);
+      // console.log("click", newRoute);
       // 避免相同頁面報錯
       if (this.$router.currentRoute.name !== newRoute)
         this.$router.push({ name: newRoute });
