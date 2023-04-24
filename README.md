@@ -2,6 +2,8 @@
 
 以 Vue.js 與 Leaflet 操作為主的練習，並搭配 Element UI 的使用。
 
+[Demo](https://rkcfkrrt.github.io/vue2-youbikemap/)
+
 ## 功能與特色
 - 以使用者定位搜尋附近 YouBike 站點。
 - 提供各站可租用車輛數量與可還車數量的資訊。
